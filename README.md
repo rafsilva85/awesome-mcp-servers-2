@@ -67,6 +67,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Aiven](https://github.com/Aiven-Open/mcp-aiven)** - Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services
 - **[ALAPI](https://github.com/ALAPI-SDK/mcp-alapi-cn)** - ALAPI MCP Tools,Call hundreds of API interfaces via MCP
 - **[Alby Bitcoin Payments MCP](https://github.com/getAlby/mcp/)** - Connect any bitcoin lightning wallet to agents to send and receive payments instantly at low cost.
+- [Credit Optimizer](https://github.com/rafsilva85/credit-optimizer-v5) - Save 30-75% on AI agent credits through intelligent task routing. 53 scenarios audited, zero quality loss.
 - **[Allyson](https://github.com/isaiahbjork/allyson-mcp)** - AI-powered SVG animation generator that transforms static files into animated SVG components using the [Allyson](https://allyson.ai) platform
 - **[AlibabaCloud DevOps MCP](https://github.com/aliyun/alibabacloud-devops-mcp-server)** - Yunxiao MCP Server provides AI assistants with the ability to interact with the [Yunxiao platform](https://devops.aliyun.com).
 - **[AllVoiceLab](https://www.allvoicelab.com/mcp)** - An AI voice toolkit with TTS, voice cloning, and video translation, now available as an MCP server for smarter agent integration.
